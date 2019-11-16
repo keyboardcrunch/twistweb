@@ -1,0 +1,474 @@
+fuzzer,domain-name,dns-a,dns-aaaa,dns-mx,dns-ns,geoip-country,whois-created,whois-updated,ssdeep-score
+Original*,microsoft.com,104.215.148.63,,microsoft-com.mail.protection.outlook.com,ns1.msft.net,Singapore,,,93
+Addition,microsofta.com,50.63.202.54,,,ns11.domaincontrol.com,United States,,,0
+Addition,microsoftc.com,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,90
+Addition,microsofte.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+Addition,microsoftf.com,18.213.250.117,,,ns1.dynadot.com,United States,,,0
+Addition,microsoftg.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Addition,microsofth.com,103.224.182.240,,park-mx.above.com,ns1.above.com,Australia,,,0
+Addition,microsofti.com,212.83.172.150,,mail.microsofti.com,ns1.microsofti.com,France,,,0
+Addition,microsoftk.com,104.28.10.104,2606:4700:30::681c:a68,microsoftk-com.mail.protection.outlook.com,mark.ns.cloudflare.com,United States,,,
+Addition,microsoftm.com,,,,ns1.uniregistry-dns.com,,,,
+Addition,microsoftn.com,69.172.201.218,,,,United States,,,0
+Addition,microsofto.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,94
+Addition,microsoftp.com,52.58.78.16,2a05:d014:9da:8c10:306e:3e07:a16f:a552,,ns1.undeveloped.com,Germany,,,0
+Addition,microsoftq.com,184.168.131.241,,,ns37.domaincontrol.com,United States,,,0
+Addition,microsoftr.com,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,94
+Addition,microsofts.com,192.155.108.149,,,ns1.redmonddc.com,United States,,,0
+Addition,microsoftt.com,208.73.210.202,,,ns1.dsredirection.com,United States,,,0
+Addition,microsoftu.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Addition,microsoftv.com,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,
+Addition,microsoftw.com,,,,ns1-06.azure-dns.com,,,,
+Addition,microsoftx.com,47.91.169.15,,,dns15.hichina.com,United States,,,0
+Addition,microsofty.com,209.207.174.13,,mail2.siteamerica.com,dns01.gpn.register.com,United States,,,
+Addition,microsoftz.com,,,,ns11.xincache.com,,,,
+Bitsquatting,licrosoft.com,23.20.239.12,,,nsg1.namebrightdns.com,United States,,,
+Bitsquatting,eicrosoft.com,103.31.75.164,,,f1g1ns1.dnspod.net,Hong Kong,,,
+Bitsquatting,mkcrosoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Bitsquatting,macrosoft.com,184.168.131.241,,mx.ym.163.com,ns03.domaincontrol.com,United States,,,0
+Bitsquatting,mycrosoft.com,208.91.196.11,,mail.b-io.co,sk.s5.ans1.ns52.ztomy.com,Virgin Islands,,,0
+Bitsquatting,mibrosoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Bitsquatting,migrosoft.com,128.65.195.25,,mta-gw.infomaniak.ch,ns1.infomaniak.ch,Switzerland,,,0
+Bitsquatting,mikrosoft.com,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+Bitsquatting,misrosoft.com,103.224.182.217,,park-mx.above.com,ns1.above.com,Australia,,,0
+Bitsquatting,micsosoft.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+Bitsquatting,micbosoft.com,127.0.0.1,,eforward1.registrar-servers.com,isla.ns.cloudflare.com,,,,
+Bitsquatting,micrmsoft.com,192.168.1.1,,eforward1.registrar-servers.com,dns1.registrar-servers.com,,,,0
+Bitsquatting,micrksoft.com,23.20.239.12,,,nsg1.namebrightdns.com,United States,,,
+Bitsquatting,micrgsoft.com,75.35.182.227,,,ns-cloud-e1.googledomains.com,United States,,,
+Bitsquatting,microroft.com,107.163.94.97,,,juming.dnsdun.com,United States,,,0
+Bitsquatting,microqoft.com,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+Bitsquatting,microwoft.com,199.59.242.153,,mx76.m2bp.com,ns1.bodis.com,United States,,,0
+Bitsquatting,microcoft.com,185.53.179.6,,,ns1.parkingcrew.net,Germany,,,0
+Bitsquatting,micro3oft.com,192.64.119.97,,eforward1.registrar-servers.com,dns1.registrar-servers.com,United States,,,0
+Bitsquatting,microsnft.com,154.218.81.236,,,jm1.dns.com,,,,0
+Bitsquatting,microsmft.com,192.64.119.98,,eforward1.registrar-servers.com,dns1.registrar-servers.com,United States,,,0
+Bitsquatting,microskft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Bitsquatting,microsogt.com,198.58.118.167,,,ns1.mytrafficmanagement.com,United States,,,0
+Bitsquatting,microsodt.com,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+Bitsquatting,microsovt.com,208.91.196.11,,mail.b-io.co,sk.s5.ans1.ns52.ztomy.com,Virgin Islands,,,0
+Bitsquatting,microsofu.com,66.254.182.29,,,ns1.maff.com,United States,,,0
+Bitsquatting,microsofp.com,103.224.182.251,,park-mx.above.com,ns1.above.com,Australia,,,0
+Homoglyph,xn--microsft-380d.com,184.168.221.54,,,ns41.domaincontrol.com,United States,,,
+Homoglyph,xn--mcrosoft-1ud.com,,,,ns-1371.awsdns-43.org,,,,
+Homoglyph,rnicrosoft.com,127.0.0.1,,localhost,ns1.sedoparking.com,,,,
+Homoglyph,xn--mcrosoft-g80d.com,104.26.4.3,2606:4700:20::681a:403,mail.xn--mcrosoft-g80d.com,buck.ns.cloudflare.com,United States,,,0
+Homoglyph,mnicrosoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Homoglyph,xn--mirosoft-lbb.com,184.168.221.52,,,ns61.domaincontrol.com,United States,,,
+Homoglyph,mlcrosoft.com,202.31.187.154,,,ns3.cypack.com,Korea,,,0
+Homoglyph,nicrosoft.com,54.208.21.117,,,dns.rebel.com,United States,,,0
+Homoglyph,xn--microsft-rec.com,193.70.29.207,,mail.xn--microsft-rec.com,ns1.digitalocean.com,Italy,,,
+Homoglyph,xn--microsot-ez9c.com,212.97.33.206,,mail.xn--microsot-ez9c.com,dns1.ruggero.eu,Italy,,,0
+Homoglyph,xn--mcrosoft-u2a.com,192.64.119.201,,eforward1.registrar-servers.com,dns1.registrar-servers.com,United States,,,0
+Homoglyph,xn--microsft-03a.com,217.76.128.34,,,dns1.servidoresdns.net,Spain,,,0
+Homoglyph,xn--icrosoft-c3a.com,217.160.230.45,2001:8d8:1000:d299:e169:f645:9407:b82e,mx00.1and1.es,ns1021.ui-dns.biz,Germany,,,0
+Homoglyph,micros0ft.com,71.244.50.116,,mail.milliways.net,b.ns.buddyns.com,United States,,,0
+Homoglyph,xn--micrsft-fx4cb.com,167.99.8.197,,xnmicrsftfx4cb-com0m1i.mail.protection.outlook.com,ns13.domaincontrol.com,United States,,,0
+Homoglyph,micr0soft.com,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+Homoglyph,xn--mcrosoft-21a.com,78.153.209.228,,mailstore1.secureserver.net,ns11.domaincontrol.com,Ireland,,,
+Homoglyph,m1cros0ft.com,216.250.120.5,2607:f1c0:1000:70f7:7ec8:5c8a:eb6d:581b,mx00.1and1.com,ns1122.ui-dns.biz,United States,,,0
+Homoglyph,xn--icrosof-r03c9o.com,50.63.202.39,,,ns41.domaincontrol.com,United States,,,0
+Homoglyph,rmicrosoft.com,35.186.238.101,,0,ns01.cashparking.com,United States,,,0
+Homoglyph,nicros0ft.com,50.255.107.171,,mail,ns21.domaincontrol.com,United States,,,
+Homoglyph,m1cr0s0ft.com,50.17.217.170,,,pdns01.domaincontrol.com,United States,,,
+Homoglyph,xn--mcrosoft-c2a.com,104.31.70.11,2606:4700:30::681f:460b,mailstore1.secureserver.net,bob.ns.cloudflare.com,United States,,,0
+Homoglyph,micr0s0ft.com,107.163.75.126,,,juming.dnsdun.com,United States,,,0
+Homoglyph,mmicrosoft.com,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+Homoglyph,xn--mcrosft-7ya2d.com,50.63.202.60,,,ns11.domaincontrol.com,United States,,,0
+Homoglyph,xn--microsof-hk0d.com,,,smtp02.topdns.com,ns-canada.topdns.com,,,,
+Homoglyph,nnicrosoft.com,,,,ns-cloud-c1.googledomains.com,,,,
+Homoglyph,xn--mirosoft-18a.com,184.168.221.37,,,ns61.domaincontrol.com,United States,,,0
+Homoglyph,xn--microoft-th0d.com,184.168.221.38,,,ns41.domaincontrol.com,United States,,,0
+Homoglyph,nmicrosoft.com,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,94
+Homoglyph,rricrosoft.com,52.235.47.121,,,ns1.dynadot.com,Canada,,,0
+Homoglyph,xn--micrsoft-q4a.com,50.63.202.52,,xnmicrsoftq4a-com0m2b.mail.protection.outlook.com,ns77.domaincontrol.com,United States,,,0
+Homoglyph,xn--mcrsoft-vw4cua.com,184.168.221.55,,,ns41.domaincontrol.com,United States,,,0
+Homoglyph,xn--icrosoft-g89c.com,184.168.221.49,,xnicrosoftg89c-com0m2b.mail.protection.outlook.com,ns09.domaincontrol.com,United States,,,0
+Homoglyph,xn--lcrosoft-g89c.com,,,,ns-10.awsdns-01.com,,,,
+Homoglyph,m1cr0soft.com,,,,ns-cloud-b1.googledomains.com,,,,
+Homoglyph,xn--microsot-x9b.com,184.168.221.37,,mailstore1.secureserver.net,ns21.domaincontrol.com,United States,,,
+Homoglyph,m1crosoft.com,0.0.0.0,::,mail.web-axis.net,dns1.web-axis.net,,,,
+Homoglyph,xn--micrsft-d1ab.com,50.63.202.40,,,ns61.domaincontrol.com,United States,,,0
+Homoglyph,xn--mcrosoft-tkb.com,104.20.57.139,,,ns59.domaincontrol.com,United States,,,
+Homoglyph,xn--micrsoft-pec.com,51.83.139.8,,mail.xn--micrsoft-pec.com,ns1.digitalocean.com,United Kingdom,,,0
+Homoglyph,xn--mcrosft-7ya83n.com,216.239.32.21,2001:4860:4802:32::15,,ns-cloud-e1.googledomains.com,United States,,,0
+Homoglyph,xn--mcrosoft-9ib.com,72.167.191.69,,mailstore1.secureserver.net,ns69.domaincontrol.com,United States,,,0
+Hyphenation,m-icrosoft.com,192.64.119.217,,eforward1.registrar-servers.com,dns1.registrar-servers.com,United States,,,0
+Hyphenation,mi-crosoft.com,84.16.73.17,2001:1600:4:1::b,pounichka.com,ns31.infomaniak.com,Switzerland,,,0
+Hyphenation,mic-rosoft.com,45.39.196.75,,,f1g1ns1.dnspod.net,United States,,,
+Hyphenation,micr-osoft.com,,,,dns25.hichina.com,,,,
+Hyphenation,micros-oft.com,50.63.202.49,,mailstore1.secureserver.net,ns37.domaincontrol.com,United States,,,
+Hyphenation,microsof-t.com,50.63.202.58,,,ns35.domaincontrol.com,United States,,,0
+Insertion,mjicrosoft.com,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,94
+Insertion,micrfosoft.com,103.224.182.251,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,muicrosoft.com,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,86
+Insertion,micr9osoft.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+Insertion,microesoft.com,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+Insertion,mivcrosoft.com,47.91.170.222,,,dns21.hichina.com,United States,,,
+Insertion,microsocft.com,91.195.240.126,,localhost,ns1.sedoparking.com,Germany,,,0
+Insertion,microsotft.com,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+Insertion,miucrosoft.com,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+Insertion,microspoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,micrlosoft.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+Insertion,microsxoft.com,127.0.0.1,,localhost,ns1.sedoparking.com,,,,
+Insertion,microsolft.com,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,85
+Insertion,microsogft.com,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,94
+Insertion,mic4rosoft.com,35.160.246.24,,,curitiba.porkbun.com,United States,,,0
+Insertion,micropsoft.com,103.224.182.241,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,microksoft.com,159.69.186.9,2a01:4f8:c2c:bc6c::1,,ns1.ndsplitter.com,United States,,,0
+Insertion,microwsoft.com,185.53.178.8,,mail.h-email.net,ns1.parkingcrew.net,Germany,,,0
+Insertion,microsodft.com,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,91
+Insertion,mkicrosoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,mifcrosoft.com,172.98.192.35,,,ns1.rentondc.com,United States,,,0
+Insertion,miocrosoft.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+Insertion,mikcrosoft.com,103.224.212.222,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,micxrosoft.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+Insertion,microsloft.com,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,94
+Insertion,microswoft.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+Insertion,moicrosoft.com,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+Insertion,microsaoft.com,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,83
+Insertion,microskoft.com,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+Insertion,mictrosoft.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+Insertion,micriosoft.com,47.244.181.200,,,dns25.hichina.com,United States,,,0
+Insertion,microsoift.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,micdrosoft.com,159.69.186.9,2a01:4f8:c2c:bc6c::1,,ns1.ndsplitter.com,United States,,,0
+Insertion,mixcrosoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,microso9ft.com,35.160.246.24,,,curitiba.porkbun.com,United States,,,0
+Insertion,microasoft.com,,,,ns1-04.azure-dns.com,,,,
+Insertion,micfrosoft.com,199.59.242.153,,mx76.m2bp.com,ns1.bodis.com,United States,,,0
+Insertion,midcrosoft.com,91.195.240.126,,localhost,ns1.sedoparking.com,Germany,,,0
+Insertion,micr4osoft.com,35.160.246.24,,,curitiba.porkbun.com,United States,,,0
+Insertion,microsofrt.com,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,94
+Insertion,microsioft.com,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,90
+Insertion,micro9soft.com,35.160.246.24,,,curitiba.porkbun.com,United States,,,0
+Insertion,micvrosoft.com,91.195.240.126,,localhost,ns1.sedoparking.com,Germany,,,0
+Insertion,microsopft.com,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+Insertion,microisoft.com,199.115.115.116,,,ns1.hastydns.com,United States,,,0
+Insertion,microseoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,microsofgt.com,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+Insertion,microsofdt.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,micerosoft.com,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,94
+Insertion,microsdoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,microszoft.com,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+Insertion,micrposoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Insertion,mi9crosoft.com,35.160.246.24,,,curitiba.porkbun.com,United States,,,0
+Insertion,microdsoft.com,199.59.242.153,,mx76.m2bp.com,ns1.bodis.com,United States,,,0
+Insertion,microlsoft.com,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+Insertion,micreosoft.com,208.73.210.202,,,ns1.dsredirection.com,United States,,,0
+Omission,mirosoft.com,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,96
+Omission,microoft.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+Omission,mcrosoft.com,199.59.242.153,,mx76.m2bp.com,ns1.bodis.com,United States,,,0
+Omission,micrsoft.com,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,94
+Omission,icrosoft.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,96
+Omission,microsft.com,104.215.148.63,,,ns1-09.azure-dns.com,Singapore,,,94
+Omission,microsof.com,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,94
+Omission,microsot.com,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+Omission,micosoft.com,208.91.197.26,,,,Virgin Islands,,,0
+Repetition,microssoft.com,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,96
+Repetition,miccrosoft.com,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+Repetition,miicrosoft.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,94
+Repetition,micrrosoft.com,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+Repetition,microosoft.com,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+Repetition,microsofft.com,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,94
+Repetition,microsooft.com,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+Replacement,micros9ft.com,199.59.242.153,,mx76.m2bp.com,ns1.bodis.com,United States,,,0
+Replacement,microsofz.com,91.195.240.13,,mailgw.ns36.de,a.ns36.de,Germany,,,0
+Replacement,microsoct.com,185.53.178.7,,mail.h-email.net,ns1.parkingcrew.net,Germany,,,0
+Replacement,miceosoft.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+Replacement,mic5osoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Replacement,mivrosoft.com,103.224.182.217,,park-mx.above.com,ns1.above.com,Australia,,,0
+Replacement,micrpsoft.com,208.91.196.94,,,dns1.malkm.com,Virgin Islands,,,0
+Replacement,mjcrosoft.com,160.124.65.114,,mxbiz1.qq.com,f1g1ns1.dnspod.net,South Africa,,,0
+Replacement,m9crosoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Replacement,midrosoft.com,199.59.242.153,,mx76.m2bp.com,ns1.bodis.com,United States,,,0
+Replacement,microsort.com,104.28.20.53,,fallbackmx.spamexperts.eu,dale.ns.cloudflare.com,United States,,,0
+Replacement,mucrosoft.com,172.98.192.37,,,ns1.wombatdns.com,United States,,,0
+Replacement,microslft.com,198.58.118.167,,,ns1.mytrafficmanagement.com,United States,,,0
+Replacement,microaoft.com,172.93.194.60,,,ns1.domainmx.com,United States,,,0
+Replacement,microsift.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,94
+Replacement,mifrosoft.com,23.20.239.12,,,nsg1.namebrightdns.com,United States,,,
+Replacement,microzoft.com,54.36.56.87,,,ns1.monikerdns.net,United States,,,0
+Replacement,microxoft.com,69.164.223.52,2600:3c03:1::45a4:df34,,NS1.DOMAIN-IS-4-SALE-AT-DOMAINMARKET.com,United States,,,0
+Replacement,microeoft.com,104.216.175.188,,,juming.dnsdun.com,United States,,,0
+Replacement,microsoff.com,185.53.178.9,,mail.h-email.net,ns1.parkingcrew.net,Germany,,,0
+Replacement,mocrosoft.com,69.172.201.153,,mx247.in-mx.com,ns1.uniregistrymarket.link,United States,,,0
+Replacement,mictosoft.com,103.224.182.242,,park-mx.above.com,ns1.above.com,Australia,,,0
+Replacement,picrosoft.com,31.31.198.59,2a00:f940:2:2:1:1:0:252,mx1.hosting.reg.ru,ns1.hosting.reg.ru,Russian Federation,,,0
+Replacement,microspft.com,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+Replacement,mixrosoft.com,,,mx.mixrosoft.com,fns.frogsmart.net,,,,
+Replacement,micfosoft.com,103.224.182.246,,park-mx.above.com,ns1.above.com,Australia,,,0
+Replacement,micdosoft.com,185.53.177.31,,,myns1.fabulous.com,Germany,,,0
+Replacement,micrisoft.com,,,,ns1-08.azure-dns.com,,,,
+Replacement,kicrosoft.com,184.168.221.34,,,ns05.domaincontrol.com,United States,,,0
+Replacement,microsott.com,185.53.179.23,,mail.h-email.net,ns1.parkingcrew.net,Germany,,,0
+Replacement,microsofr.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,94
+Replacement,micrlsoft.com,95.211.117.215,,,ns1.weaponizedcow.com,Netherlands,,,0
+Replacement,microdoft.com,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,94
+Replacement,microsofy.com,199.59.242.153,,mx76.m2bp.com,ns1.bodis.com,United States,,,0
+Replacement,m8crosoft.com,199.59.242.153,,mx76.m2bp.com,ns1.bodis.com,United States,,,0
+Subdomain,mi.crosoft.com,37.230.102.251,,,,Netherlands,,,0
+Subdomain,mic.rosoft.com,72.34.51.46,,,,United States,,,0
+Subdomain,micr.osoft.com,199.59.242.153,,,,United States,,,0
+Subdomain,micro.soft.com,162.242.150.89,,,,United States,,,0
+Subdomain,micros.oft.com,91.195.240.126,,localhost,ns1.sedoparking.com,Germany,,,0
+Transposition,imcrosoft.com,91.195.240.126,,localhost,ns1.sedoparking.com,Germany,,,0
+Transposition,mcirosoft.com,103.224.182.238,,park-mx.above.com,ns1.above.com,Australia,,,0
+Transposition,mircosoft.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,88
+Transposition,micrsooft.com,208.73.210.202,,,ns1.dsredirection.com,United States,,,0
+Transposition,microosft.com,103.224.182.251,,park-mx.above.com,ns1.above.com,Australia,,,0
+Transposition,microsfot.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,94
+Transposition,microsotf.com,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,80
+Vowel-swap,microsuft.com,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,80
+Vowel-swap,microsaft.com,93.191.156.32,,mx.unoeuro.com,ns1.unoeuro.com,Denmark,,,
+Vowel-swap,micresoft.com,103.224.182.217,,park-mx.above.com,ns1.above.com,Australia,,,0
+Vowel-swap,microseft.com,52.0.217.44,,,ns1.dynadot.com,United States,,,0
+Vowel-swap,mecrosoft.com,103.224.182.241,,park-mx.above.com,ns1.above.com,Australia,,,0
+Vowel-swap,micrusoft.com,23.20.239.12,,,nsg1.namebrightdns.com,United States,,,
+Various,microsoftcom.com,184.168.131.241,,mailstore1.europe.secureserver.net,ns09.domaincontrol.com,United States,,,0
+TLD-swap,microsoft.org,104.215.148.63,,,ns1.msft.net,Singapore,,,77
+TLD-swap,microsoft.ru,104.215.148.63,,,ns1.msft.net,Singapore,,,0
+TLD-swap,microsoft.net,104.215.148.63,,,ns1.msft.net,Singapore,,,93
+TLD-swap,microsoft.de,104.215.148.63,,,ns1-08.azure-dns.de,Singapore,,,69
+TLD-swap,microsoft.uk,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.it,104.215.148.63,,maila.microsoft.com,ns1-05.azure-dns.com,Singapore,,,69
+TLD-swap,microsoft.pl,104.215.148.63,,microsoft.pl,ns1.msft.net,Singapore,,,74
+TLD-swap,microsoft.jp,104.215.148.63,,,ns2.msft.net,Singapore,,,71
+TLD-swap,microsoft.fr,65.52.144.160,,bow.rain.fr,ns1.msft.net,Netherlands,,,74
+TLD-swap,microsoft.in,104.215.148.63,,,ns1-07.azure-dns.com,Singapore,,,75
+TLD-swap,microsoft.info,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+TLD-swap,microsoft.cz,104.215.148.63,,smtp.microsoft.cz,ns1.msft.net,Singapore,,,71
+TLD-swap,microsoft.nl,104.215.148.63,,maila.microsoft.com,ns1.msft.net,Singapore,,,72
+TLD-swap,microsoft.es,104.215.148.63,,,ns1.msft.net,Singapore,,,74
+TLD-swap,microsoft.ca,104.215.148.63,,,ns1-07.azure-dns.com,Singapore,,,69
+TLD-swap,microsoft.ua,104.215.148.63,,,ns1-03.azure-dns.com,Singapore,,,69
+TLD-swap,microsoft.cn,104.215.95.187,,,ns2.msft.net,United States,,,69
+TLD-swap,microsoft.kr,,,,ns1-05.azure-dns.com,,,,
+TLD-swap,microsoft.eu,104.215.148.63,,microsoft-eu.mail.protection.outlook.com,ns1.msft.net,Singapore,,,0
+TLD-swap,microsoft.co,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,83
+TLD-swap,microsoft.ch,104.215.148.63,,,ns1-09.azure-dns.com,Singapore,,,72
+TLD-swap,microsoft.gr,104.215.95.187,,,ns1.msft.net,United States,,,71
+TLD-swap,microsoft.tw,104.215.148.63,,,ns2.msft.net,Singapore,,,74
+TLD-swap,microsoft.se,104.215.148.63,,,ns1.msft.net,Singapore,,,74
+TLD-swap,microsoft.ro,104.215.148.63,,mail.microsoft.ro,ns1.msft.net,Singapore,,,
+TLD-swap,microsoft.hu,104.215.148.63,,mail.max.hu,ns1.msft.net,Singapore,,,74
+TLD-swap,microsoft.at,104.215.95.187,,,ns1.msft.net,United States,,,74
+TLD-swap,microsoft.be,104.215.148.63,,,ns1-02.azure-dns.com,Singapore,,,72
+TLD-swap,microsoft.mx,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,72
+TLD-swap,microsoft.vn,104.215.148.63,,,ns2.msft.net,Singapore,,,
+TLD-swap,microsoft.ar,,,,ns1-02.azure-dns.com,,,,
+TLD-swap,microsoft.sk,104.215.148.63,,,ns1.msft.net,Singapore,,,72
+TLD-swap,microsoft.dk,104.215.148.63,,,ns1.msft.net,Singapore,,,75
+TLD-swap,microsoft.no,104.215.148.63,,kunde.mx-gw1.powertech.no,ns1.msft.net,Singapore,,,72
+TLD-swap,microsoft.io,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.me,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.us,,,,ns1.msft.net,,,,
+TLD-swap,microsoft.cl,104.215.148.63,,mx1.masteremail.net,ns1-07.azure-dns.com,Singapore,,,72
+TLD-swap,microsoft.biz,134.170.185.46,,,ns1-09.azure-dns.com,United States,,,
+TLD-swap,microsoft.fi,104.215.148.63,,,ns1-03.azure-dns.com,Singapore,,,72
+TLD-swap,microsoft.tv,104.215.148.63,,,ns1-04.azure-dns.com,Singapore,,,
+TLD-swap,microsoft.pt,104.215.148.63,,,ns1.msft.net,Singapore,,,71
+TLD-swap,microsoft.ie,104.215.148.63,,,ns1.msft.net,Singapore,,,71
+TLD-swap,microsoft.xyz,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.by,104.215.148.63,,,ns1-05.azure-dns.com,Singapore,,,71
+TLD-swap,microsoft.hk,,,,ns1-07.azure-dns.com,,,,
+TLD-swap,microsoft.club,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+TLD-swap,microsoft.sg,,,,ns1-04.azure-dns.com,,,,
+TLD-swap,microsoft.lt,104.215.148.63,,,ns1-02.azure-dns.com,Singapore,,,
+TLD-swap,microsoft.my,104.215.95.187,,,ns2.msft.net,United States,,,93
+TLD-swap,microsoft.online,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+TLD-swap,microsoft.kz,207.46.232.182,,,foreign.hoster.kz,Singapore,,,
+TLD-swap,microsoft.pro,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.cc,,,,ns1.dnsowl.com,,,,
+TLD-swap,microsoft.si,104.215.148.63,,ahmail.avtenta.si,ns1-08.azure-dns.com,Singapore,,,
+TLD-swap,microsoft.hr,104.215.95.187,,maila.microsoft.hr,ns1.msft.net,United States,,,71
+TLD-swap,microsoft.bg,185.53.178.7,,mail.h-email.net,ns1.parkingcrew.net,Germany,,,0
+TLD-swap,microsoft.rs,104.215.148.63,,,ns1-09.azure-dns.com,Singapore,,,
+TLD-swap,microsoft.su,195.208.1.121,,mx01.nicmail.ru,ns3.nic.ru,Russian Federation,,,0
+TLD-swap,microsoft.pk,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.az,104.215.148.63,,,ns1-01.azure-dns.com,Singapore,,,0
+TLD-swap,microsoft.site,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,85
+TLD-swap,microsoft.lv,104.215.148.63,,,ns1-03.azure-dns.com,Singapore,,,69
+TLD-swap,microsoft.pe,52.58.78.16,2a05:d014:9da:8c10:306e:3e07:a16f:a552,,ns1.undeveloped.com,Germany,,,0
+TLD-swap,microsoft.ae,,,,ns1-08.azure-dns.com,,,,
+TLD-swap,microsoft.ee,104.215.148.63,,,ns1.msft.net,Singapore,,,72
+TLD-swap,microsoft.ph,104.215.95.187,,,ns2.msft.net,United States,,,93
+TLD-swap,microsoft.cat,104.215.148.63,,,ns1-02.azure-dns.com,Singapore,,,74
+TLD-swap,microsoft.pw,104.215.95.187,,,ns1.msft.net,United States,,,0
+TLD-swap,microsoft.sa,,,,ns1.msft.net,,,,
+TLD-swap,microsoft.uz,104.215.148.63,,,ns1.msft.net,Singapore,,,
+TLD-swap,microsoft.is,104.215.148.63,,mx1.hysing.is,ns1-05.azure-dns.com,Singapore,,,74
+TLD-swap,microsoft.mobi,65.55.186.235,,,ns1-08.azure-dns.com,United States,,,
+TLD-swap,microsoft.win,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,94
+TLD-swap,microsoft.lu,104.215.148.63,,,ns1-04.azure-dns.com,Singapore,,,0
+TLD-swap,microsoft.ml,,,,ns1-02.azure-dns.com,,,,
+TLD-swap,microsoft.asia,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.ma,104.215.95.187,,,ns1.msft.net,United States,,,69
+TLD-swap,microsoft.lk,134.170.185.46,,,ns2.msft.net,United States,,,
+TLD-swap,microsoft.shop,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,94
+TLD-swap,microsoft.ge,104.215.148.63,,,ns1.msft.net,Singapore,,,
+TLD-swap,microsoft.live,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+TLD-swap,microsoft.blog,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.space,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.ba,144.76.172.108,,mail.microsoft.ba,emma.ns.cloudflare.com,Germany,,,0
+TLD-swap,microsoft.ga,,,,ns1-03.azure-dns.com,,,,
+TLD-swap,microsoft.uy,,,,ns1-09.azure-dns.com,,,,
+TLD-swap,microsoft.cf,,,,ns1-09.azure-dns.com,,,,
+TLD-swap,microsoft.website,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+TLD-swap,microsoft.life,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,90
+TLD-swap,microsoft.tn,,,mx1.topnet.tn,ns1.topnet.tn,,,,
+TLD-swap,microsoft.ai,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,74
+TLD-swap,microsoft.tech,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+TLD-swap,microsoft.md,104.215.148.63,,,ns1-03.azure-dns.com,Singapore,,,
+TLD-swap,microsoft.news,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,91
+TLD-swap,microsoft.mk,35.156.206.232,,microsoft.mk,dns1.mk-host.mk,United States,,,0
+TLD-swap,microsoft.do,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.ec,,,,1-you.njalla.no,,,,
+TLD-swap,microsoft.am,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.store,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,83
+TLD-swap,microsoft.mn,104.215.95.187,,,ns2.msft.net,United States,,,83
+TLD-swap,microsoft.media,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+TLD-swap,microsoft.al,31.171.152.93,,webmail.microsoft.al,ns1.keminetdns.com,Albania,,,0
+TLD-swap,microsoft.world,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,85
+TLD-swap,microsoft.work,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,94
+TLD-swap,microsoft.one,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.cr,134.170.185.46,,,ns1.msft.net,United States,,,
+TLD-swap,microsoft.kg,104.215.95.187,,,ns1.msft.net,United States,,,
+TLD-swap,microsoft.link,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.stream,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,94
+TLD-swap,microsoft.gg,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.app,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,0
+TLD-swap,microsoft.icu,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+TLD-swap,microsoft.nyc,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,86
+TLD-swap,microsoft.host,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+TLD-swap,microsoft.network,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.bid,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,94
+TLD-swap,microsoft.cloud,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.vip,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.im,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+TLD-swap,microsoft.bz,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.global,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+TLD-swap,microsoft.design,52.175.239.37,,,ns1.msft.net,United States,,,
+TLD-swap,microsoft.digital,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.eus,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.vc,217.103.35.80,,microsoft.vc,ns0.transip.net,Netherlands,,,
+TLD-swap,microsoft.li,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,94
+TLD-swap,microsoft.jobs,104.215.95.187,,,ns1.msft.net,United States,,,0
+TLD-swap,microsoft.tj,104.215.95.187,,,ns2.msft.net,United States,,,93
+TLD-swap,microsoft.studio,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,94
+TLD-swap,microsoft.ovh,195.162.24.192,,microsoft.ovh,ns1.kylos.pl,Poland,,,0
+TLD-swap,microsoft.jo,104.215.95.187,,,ns1.msft.net,United States,,,88
+TLD-swap,microsoft.ag,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,94
+TLD-swap,microsoft.click,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,94
+TLD-swap,microsoft.video,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.moe,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,83
+TLD-swap,microsoft.press,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.cm,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.ps,199.83.128.40,,mail.microsoft.ps,ns01.trademarkarea.com,United States,,,0
+TLD-swap,microsoft.city,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+TLD-swap,microsoft.ooo,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.ninja,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.wiki,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+TLD-swap,microsoft.mt,,,,ns1.msft.net,,,,
+TLD-swap,microsoft.company,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.mu,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.trade,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,94
+TLD-swap,microsoft.solutions,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,94
+TLD-swap,microsoft.church,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.men,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.ni,,,,ns1-04.azure-dns.com,,,,
+TLD-swap,microsoft.ac,,,,f1g1ns1.dnspod.net,,,,
+TLD-swap,microsoft.plus,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.red,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,83
+TLD-swap,microsoft.sh,,,,f1g1ns1.dnspod.net,,,,
+TLD-swap,microsoft.guide,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+TLD-swap,microsoft.rw,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.games,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.sn,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.st,104.40.211.35,,mail.microsoft.st,ns1.reg.ru,Netherlands,,,
+TLD-swap,microsoft.hn,134.170.185.46,,,ns1-08.azure-dns.com,United States,,,
+TLD-swap,microsoft.art,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,83
+TLD-swap,microsoft.expert,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.events,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.cash,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,94
+TLD-swap,microsoft.social,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,88
+TLD-swap,microsoft.party,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.school,65.52.231.12,,,ns1.msft.net,Ireland,,,
+TLD-swap,microsoft.services,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.moscow,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,83
+TLD-swap,microsoft.fo,202.182.101.112,,fwd1.porkbun.com,curitiba.porkbun.com,Australia,,,0
+TLD-swap,microsoft.so,185.53.177.20,,,ns1.eurodns.com,Germany,,,0
+TLD-swap,microsoft.market,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,94
+TLD-swap,microsoft.team,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+TLD-swap,microsoft.ms,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,85
+TLD-swap,microsoft.tt,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,94
+TLD-swap,microsoft.bio,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+TLD-swap,microsoft.bet,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.cx,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.as,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.community,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,94
+TLD-swap,microsoft.gal,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.pub,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,94
+TLD-swap,microsoft.cd,104.215.95.187,,,ns1.msft.net,United States,,,93
+TLD-swap,microsoft.tm,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,88
+TLD-swap,microsoft.date,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,91
+TLD-swap,microsoft.ink,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,83
+TLD-swap,microsoft.cafe,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+TLD-swap,microsoft.gdn,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+TLD-swap,microsoft.blue,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+TLD-swap,microsoft.capital,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,93
+TLD-swap,microsoft.sc,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,94
+TLD-swap,microsoft.pics,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+TLD-swap,microsoft.chat,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,85
+TLD-swap,microsoft.run,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.fit,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+TLD-swap,microsoft.science,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,88
+TLD-swap,microsoft.help,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.care,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,94
+TLD-swap,microsoft.exchange,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,83
+TLD-swap,microsoft.porn,165.160.13.20,,custmx.cscdns.net,dns1.cscdns.net,United States,,,0
+TLD-swap,microsoft.audio,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.loan,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,94
+TLD-swap,microsoft.scot,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.gratis,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+TLD-swap,microsoft.kim,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+TLD-swap,microsoft.gl,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,94
+TLD-swap,microsoft.gs,31.220.19.67,,mx1.hostinger.web.tr,ns1.hostinger.web.tr,United States,,,
+TLD-swap,microsoft.technology,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.reviews,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,93
+TLD-swap,microsoft.wtf,165.160.13.20,,custmx.cscdns.net,dns1.cscdns.net,United States,,,0
+TLD-swap,microsoft.movie,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.mv,202.1.203.100,,,,Maldives,,,
+TLD-swap,microsoft.wien,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,90
+TLD-swap,microsoft.webcam,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
+TLD-swap,microsoft.money,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.style,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,85
+TLD-swap,microsoft.wang,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,83
+TLD-swap,microsoft.ht,,,,ns1-06.azure-dns.com,,,,
+TLD-swap,microsoft.software,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+TLD-swap,microsoft.bar,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+TLD-swap,microsoft.beer,104.215.95.187,,,ns1-04.azure-dns.com,United States,,,93
+TLD-swap,microsoft.photo,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+TLD-swap,microsoft.africa,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+TLD-swap,microsoft.energy,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+TLD-swap,microsoft.fund,104.215.95.187,,,ns1-08.azure-dns.com,United States,,,93
+TLD-swap,microsoft.mw,,,,ns1.msft.net,,,,
+TLD-swap,microsoft.lol,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,94
+TLD-swap,microsoft.amsterdam,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.report,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+TLD-swap,microsoft.pr,104.215.95.187,,,ns1-05.azure-dns.com,United States,,,94
+TLD-swap,microsoft.earth,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+TLD-swap,microsoft.pink,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.pm,,,,ns1.msft.net,,,,
+TLD-swap,microsoft.ky,199.184.144.27,,mx248.in-mx.com,ns1.expired.uniregistry-dns.com,United States,,,0
+TLD-swap,microsoft.restaurant,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.bi,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.foundation,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+TLD-swap,microsoft.je,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,93
+TLD-swap,microsoft.deals,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+TLD-swap,microsoft.direct,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,93
+TLD-swap,microsoft.show,104.215.95.187,,,ns1-06.azure-dns.com,United States,,,83
+TLD-swap,microsoft.tube,104.215.95.187,,,ns1-07.azure-dns.com,United States,,,93
+TLD-swap,microsoft.careers,104.215.95.187,,,ns1-01.azure-dns.com,United States,,,83
+TLD-swap,microsoft.fyi,104.215.95.187,,,ns1-09.azure-dns.com,United States,,,93
+TLD-swap,microsoft.buzz,104.215.95.187,,,ns1-03.azure-dns.com,United States,,,94
+TLD-swap,microsoft.cam,104.215.95.187,,,ns1-02.azure-dns.com,United States,,,93
