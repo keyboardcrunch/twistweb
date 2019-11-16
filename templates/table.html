@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block app_content %}
+    <h1>{{ title }}</h1>
+    <table border=1 class="table table-bordered table-striped">
+        <tr>
+            <th>Options</th>
+            <th>Fuzzer</th>
+            <th>Domain</th>
+            <th>A</th>
+            <th>AAAA</th>
+            <th>MX</th>
+            <th>NS</th>
+            <th>Country</th>
+            <th>Created</th>
+            <th>Updated</th>
+            <th>SSDeep Score</th>
+        </tr>
+        {% for obj in dnsdata %}
+        <tr>
+            <td>
+                <a href="../ignore/{{obj[1]}}/"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></a>
+                <a href="http://{{obj[1]}}" rel="noopener noreferrer" target="_blank"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span></a>
+                <a href="http://{{obj[1]}}" rel="noopener noreferrer" target="_blank"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span></a>
+            </td>
+            <td>{{ obj[0] }}</td>
+            <td>{{ obj[1] }}</td>
+            <td><a href="https://ipinfo.io/{{ obj[2] }}/" rel="noopener noreferrer" target="_blank">{{ obj[2] }}</a></td>
+            <td>{{ obj[3] }}</td>
+            <td>{{ obj[4] }}</td>
+            <td>{{ obj[5] }}</td>
+            <td>{{ obj[6] }}</td>
+            <td>{{ obj[7] }}</td>
+            <td>{{ obj[8] }}</td>
+            <td>{{ obj[9] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

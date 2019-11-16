@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+<div class="container">
+    <h1>Welcome</h1>
+    <div>
+        <p>This site is currently in alpha. As it stands now, it's just a basic web interface for reviewing dnstwist scans.</p>
+    </div>
+    <div>
+        <ul>
+            {% for i in range(0, len) %}
+                <li><a href="../results/{{domains[i]}}" rel="noopener noreferrer" target="_blank">{{domains[i]}}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endblock %}

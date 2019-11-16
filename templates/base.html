@@ -1,0 +1,34 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}TwistWeb{% endblock %}
+
+{% block head %}
+    {{ super() }}
+{% endblock %}
+
+{% block navbar %}
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">DNSTwist Web Interface (D.W.I.)</a>
+            </div>
+            <form class="navbar-form navbar-right" role="search" action="./jump/" method="GET">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="domain.com" name="domain">
+                </div>
+                <button type="Submit" class="btn btn-default">Jump</button>
+            </form>
+        </div>
+    </nav>
+{% endblock %}
+
+{% block content %}
+    <style>
+        body { padding-top: 50px; }
+    </style>
+    <div class="container">
+        {# application content needs to be provided in the app_content block #}
+        {% block app_content %}
+        {% endblock %}
+    </div>
+{% endblock %}
+
